@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://sethscrypt.dyndns.org';
+$config['base_url']	= '';
 
 /*
 |--------------------------------------------------------------------------
