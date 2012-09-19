@@ -1,3 +1,7 @@
+
+<p>Internet payments can be made monthly, or once for the entire year. You may notice that you will save about 2 dollars by paying for all your internet up-front. This is because there is a small PayPal Service charge (less than a dollar) per transaction. </p>
+
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
