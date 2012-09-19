@@ -1,3 +1,3 @@
-<strong>&copy; 2011</strong>
+<strong>&copy; 2012</strong>
 </body>
 </html>
