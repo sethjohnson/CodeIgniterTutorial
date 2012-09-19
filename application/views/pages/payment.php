@@ -9,7 +9,7 @@
 </ul>
 <p> Once again, I've rounded up by a few cents for each transaction to cover various expenses including PayPal transaction fees and ComCast payment service fees. If you have any questions or concerns regarding </p>
 
-<h2>Payment for the month of September</h2>
+<h2>Payment for the month of September, 2012</h2>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
