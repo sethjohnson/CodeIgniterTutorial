@@ -1,5 +1,5 @@
 <h3>Order Quantity</h3>
-<p>Internet payments can be made monthly, or once for the entire year. You may notice that you will save about 2 dollars by paying for all your internet up-front: This is because there is a small PayPal Service charge (less than a dollar) per transaction. There is no problem at all with paying monthly; I have simply added the fee to the payment price.</p>
+<p>The awesome Internet payments can be made monthly, or once for the entire year. You may notice that you will save about 2 dollars by paying for all your internet up-front: This is because there is a small PayPal Service charge (less than a dollar) per transaction. There is no problem at all with paying monthly; I have simply added the fee to the payment price.</p>
 <h3>What You're Paying For</h3>
 <p> Your rates come out of three things: <p>
 <ul>
@@ -9,7 +9,7 @@
 </ul>
 <p> Once again, I've rounded up by a few cents for each transaction to cover various expenses including PayPal transaction fees and ComCast payment service fees. If you have any questions or concerns regarding these payments, do not hesitate to email me at <a href="mailto:sethalanjohnson@gmail.com">sethalanjohnson@gmail.com</a>!</p>
 
-<h2>Payment for the month of September, 2012</h2>
+<h2>Payment for the months of September & October, 2012</h2>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <table>
@@ -25,3 +25,121 @@
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
+
+
+<table border="1">
+<tr>
+  <th/>
+  <th>September</th>
+  <th>October</th>
+  <th>November</th>
+  <th>December</th>
+  <th>January</th>
+  <th>February</th>
+  <th>March</th>
+  <th>April</th>
+  <th>May</th>
+</tr>
+<tr>
+  <th>Jared Grove</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+
+<tr>
+  <th>Jeff Hong</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+
+<tr>
+  <th>Nirmal Mekala</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+
+<tr>
+  <th>Will Moon</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+<tr>
+  <th>Matt Reynertson</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+<tr>
+  <th>Reed Schaff</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+<tr>
+  <th>Nathan Tripp</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+<tr>
+  <th>Scott Walter</th>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+  <td style="background-color:GreenYellow"/>
+</tr>
+
+</table>
