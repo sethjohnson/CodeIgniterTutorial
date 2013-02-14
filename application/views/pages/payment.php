@@ -137,14 +137,25 @@ $dudes = array(
 </tr>
 
 <?php 
+  
   foreach ($dudes as $name => $payments) {
     echo "<tr>";
     echo "<th align='right'>" . $name . "</th>";
     for ($i=1; $i <= $total_months; $i++) { 
-      if ($i <= $payments || ($i > $last_compound_month+1 && $i - ($last_compound_month+1) <= ($payments-$last_single_month-1)/2) ) {
-        //Been paid for
+      if ($i <= $payments) {
         echo "<td align='center' style='background-color:GreenYellow'>PAID</td>";
 
+      } else if ($i > $last_compound_month+1 && $i - ($last_compound_month+1) <= ($payments-$last_single_month-1)/2 ) {
+        //Been paid for
+        echo "<td align='center' style='background-color:GreenYellow'>(PAID)</td>";
+
+	 
+
+      } else if($i > $last_compound_month+1 && $i - ($last_compound_month+1) <= ($payments-$last_single_month)/2 ){
+      	 echo "<td align='center' style='background:-moz-linear-gradient(left center, GreenYellow 50%, LightGrey 50%);
+    background:-o-linear-gradient(left center, GreenYellow 50%, LightGrey 50%);
+    background:-webkit-gradient(linear, left top, right top, color-stop(50%,GreenYellow), color-stop(50%,LightGrey));
+    background:linear-gradient(left center, GreenYellow 50%, LightGrey 50%);'></td>";
       } else {
         //Has not been paid for
         if ($i <= $month) {
