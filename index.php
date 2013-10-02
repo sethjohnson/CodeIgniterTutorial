@@ -1,6 +1,8 @@
-<?php Header ("Content-type: text/css; charset=utf-8");?> 
+<?php 
+	Header ("Content-type: text/css; charset=utf-8");
+?> 
 
-<!DOCTYPE html>
+<!DOCTYPE HTM>
 
 <html >
 <head>
