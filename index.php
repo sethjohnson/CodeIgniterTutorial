@@ -98,7 +98,7 @@ $dudes = array(
 <p> Once I've received and verified your payment, I'll update the table below manually.</p>
 
 <?php
-  echo "<h2>Payment for the month of " . $months[$month-1] . ", 2012</h2>";
+  echo "<h2>Payment for the month of " . $months[$month-1] . ", 2013</h2>";
 ?>
 <p> <button type="button" onclick="location.href='https://venmo.com/i/seth-johnson-6';">Pay with Venmo!</button></p>
 <p>Or, pay with PayPal (But really, you should use Venmo):</p>
