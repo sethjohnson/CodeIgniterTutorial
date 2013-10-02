@@ -14,14 +14,14 @@ $months = array(
   "August"
   );
 $dudes = array(
-  "Isaac Chan",
-  "Conrad Etzel",
-  "David Fauth",
-  "Zach Fuenning",
-  "John Hougard",
-  "Chris Lovdal",
-  "Nirmal Mekala",
-  "Daniel Schmitter"
+  "Isaac Chan" => 0,
+  "Conrad Etzel" => 0,
+  "David Fauth" => 0,
+  "Zach Fuenning" => 0,
+  "John Hougard" => 0,
+  "Chris Lovdal" => 0,
+  "Nirmal Mekala" => 0,
+  "Daniel Schmitter" => 0
   
 );
 
