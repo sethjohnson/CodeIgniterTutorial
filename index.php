@@ -32,6 +32,18 @@ $dudes = array(
 ?>
 
 
+<h2>Welcome to OntarioHub!</h2>
+<p> This is the website for the Ontario Guy's House. On this page you can make payments for internet. </p>
+
+<h3>Payment Methods</h3>
+<p>In the past, we've used PayPal to transfer payments. 
+	The only downside to PayPal is that they take a small fee for every payment 
+	(usually less than $1). 
+</p>
+<p> <a href="https://venmo.com/i/seth-johnson-6">Venmo</a> is a free webservice which works great for transfering money. 
+	It's both browser-based and available as a mobile application. 
+	</p>
+
 
 
 <h3>Order Quantity</h3>
