@@ -56,21 +56,7 @@ $dudes = array(
 			<tr><th>Month</th><th>Fee</th></tr>
 		</thead>
 		<tbody>
-			<?php 
-			  for ($i=0; $i < $total_months; $i++) { 
-			    echo "<tr><td>";
-			    echo $months[$i];
-			    echo "</td><td>";
-			    if ($i == 1) {
-			    	echo "$51.00";
-			    } else if($i <= 9) {
-			    	echo "$40.00";
-			    } else {
-			    	echo "$80.00";
-			    }
-			    echo "</td></tr>"
-			  }
-		  	?>
+
   		</tbody>
 	</table>
 	
