@@ -86,87 +86,42 @@ $dudes = array(
 	I'm going to round this up to $10 a month, taking an approximately $2.50 contribution from each inhabitant for use towards paper towels, dish soap, and any other house-related expenses.
 	If you've spent money on something that you think your house or your floor needs, talk to me and I can potentially reimburse you accordingly. 
 </p>
-<p> So in conclusion, we're charging $10 per person per month. </p>
+<p> So in conclusion, we're charging $10 per person per month for 9 months. </p>
 	
 
 
 
 
 <h3>Order Quantity</h3>
-<p>The awesome Internet payments can be made monthly, or once for the entire year. You may notice that you will save about 2 dollars by paying for all your internet up-front: This is because there is a small PayPal Service charge (less than a dollar) per transaction. There is no problem at all with paying monthly; I have simply added the fee to the payment price.</p>
-<h3>What You're Paying For</h3>
-<p> Your rates come out of three things: <p>
-<ul>
-    <li>Modem ($85) </li>
-    <li>One-time fee (Around $90) </li>
-    <li>Monthly Internet Subscription (Around $45) </li>
-</ul>
-<p> Once again, I've rounded up by a few cents for each transaction to cover various expenses including PayPal transaction fees and ComCast payment service fees. If you have any questions or concerns regarding these payments, do not hesitate to email me at <a href="mailto:sethalanjohnson@gmail.com">sethalanjohnson@gmail.com</a>!</p>
+<p>The Internet payments can be made monthly, or once for the entire year. 
+	If you're paying with Venmo, please indicate that you're paying for several months at once.</p>
+
 <?php
   echo "<h2>Payment for the month of " . $months[$month-1] . ", 2012</h2>";
 ?>
-<p>Note: To avoid any complications Summer may bring with people being gone, I've split everyones fees for June, July, and August between the months of December - May. This way, no one will owe me any money for internet during the three Summer months. If you have a subleaser, you can certainly ask them to pay <em>you</em> for the Summer internet, but as of May all debts for the year will be paid. If you have any questions about this complication, let me know!</p>  
-<!--
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="J6YVFVGQ4GY2A">
-<table>
-<tr><td><input type="hidden" name="on0" value="Number of Payments">Number of Payments</td></tr><tr><td><select name="os0">
-	       <option value="1 Month">1 Month $7.25 USD</option>
-	       <option value="2 Months">2 Months $14.50 USD</option>
-	       <option value="3 Months">3 Months $21.75 USD</option>
-	       <option value="4 Months">4 Months $29.00 USD</option>
-	       <option value="5 Months">5 Months $36.25 USD</option>
-	       <option value="6 Months">6 Months $43.50 USD</option>
-	       <option value="7 Months">7 Months $50.75 USD</option>
-	       <option value="8 Months">8 Months $58.00 USD</option>
-	       <option value="9 Months">9 Months $65.25 USD</option>
-	       <option value="10 Months">10 Months $72.50 USD</option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Your Name">Your Name</td></tr><tr><td><select name="os1">
-	       <option value="Jared Grove">Jared Grove </option>
-	       <option value="Jeff Hong">Jeff Hong </option>
-	       <option value="Nirmal Mekala">Nirmal Mekala </option>
-	       <option value="Will Moon">Will Moon </option>
-	       <option value="Matt Reynertson">Matt Reynertson </option>
-	       <option value="Reed Schaaf">Reed Schaaf </option>
-	       <option value="Nathan Tripp">Nathan Tripp </option>
-	       <option value="Scott Walter">Scott Walter </option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
---!>
+<button type="button" onclick="location.href='https://venmo.com/i/seth-johnson-6';">Pay with Venmo!</button>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="JFF5NYJVTKDKW">
+<input type="hidden" name="hosted_button_id" value="P94FMRYEL7MWJ">
 <table>
 <tr><td><input type="hidden" name="on0" value="Number of Payments">Number of Payments</td></tr><tr><td><select name="os0">
-	       <option value="1 Month">1 Month $10.88 USD</option>
-	       <option value="2 Months">2 Months $21.75 USD</option>
-	       <option value="3 Months">3 Months $32.63 USD</option>
-	       <option value="4 Months">4 Months $43.50 USD</option>
-	       <option value="5 Months">5 Months $54.38 USD</option>
-	       <option value="6 Months">6 Months $65.25 USD</option>
-</select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Your Name">Your Name</td></tr><tr><td><select name="os1">
-	       <option value="Jared Grove">Jared Grove </option>
-	       <option value="Jeff Hong">Jeff Hong </option>
-	       <option value="Nirmal Mekala">Nirmal Mekala </option>
-	       <option value="Will Moon">Will Moon </option>
-	       <option value="Matt Reynertson">Matt Reynertson </option>
-	       <option value="Reed Schaaf">Reed Schaaf </option>
-	       <option value="Nathan Tripp">Nathan Tripp </option>
-	       <option value="Scott Walter">Scott Walter </option>
+	<option value="1 Month">1 Month $10.00 USD</option>
+	<option value="2 Months">2 Months $20.00 USD</option>
+	<option value="3 Months">3 Months $30.00 USD</option>
+	<option value="4 Months">4 Months $40.00 USD</option>
+	<option value="5 Months">5 Months $50.00 USD</option>
+	<option value="6 Months">6 Months $60.00 USD</option>
+	<option value="7 Months">7 Months $70.00 USD</option>
+	<option value="8 Months">8 Months $80.00 USD</option>
+	<option value="9 Months">9 Months $90.00 USD</option>
 </select> </td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 
 
