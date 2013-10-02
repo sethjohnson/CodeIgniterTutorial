@@ -1,3 +1,5 @@
+<?php Header ("Content-type: text/css; charset=utf-8");?> 
+
 <!DOCTYPE html>
 
 <html >
