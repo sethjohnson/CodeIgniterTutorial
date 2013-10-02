@@ -55,6 +55,9 @@ $dudes = array(
 		<thead>
 			<tr><th>Month</th><th>Fee</th></tr>
 		</thead>
+		<tfoot>
+			<tr><th></th><th>$611.00</th></tr>
+		</tfoot>
 		<tbody>
 			<?php 
 			  for ($i=0; $i < $total_months; $i++) { 
