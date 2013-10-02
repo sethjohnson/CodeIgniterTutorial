@@ -1,0 +1,44 @@
+
+h1 {
+	color:maroon;
+	text-align: center;
+
+}
+
+table {
+	background-color: gold;
+	margin-left: auto;
+	margin-right: auto;
+  	text-align: center;
+  	
+}
+td, th {
+	 width:7em;
+	 height: 3em;
+
+
+}
+a:link {color:brown;}      /* unvisited link */
+a:visited {color:GoldenRod  ;}  /* visited link */
+a:hover {color:black;}  /* mouse over link */
+
+thead th {
+	border:1px inset black;
+}
+tbody td, tbody th {
+	border: 2px solid black;
+}
+thead th {
+	font-size: 110%;
+}
+tbody tr th {
+	color:white;
+	font-weight: normal;
+	font-style:italic;
+}
+
+tbody tr.alt{
+color:#000000;
+background-color:#EAF2D3;
+}
+
