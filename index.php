@@ -33,20 +33,20 @@ $dudes = array(
 
 
 <h2>Welcome to OntarioHub!</h2>
-<p> This is the website for the Ontario Guy's House. On this page you can make payments for internet. </p>
+<p> This is the website for the Ontario Guy's House. On this page you can make payments for Internet. </p>
 
 <h3>Payment Methods</h3>
 <p>In the past, we've used PayPal to transfer payments. 
 	The only downside to PayPal is that they take a small fee for every payment 
 	(usually less than $1). 
 </p>
-<p> <a href="https://venmo.com/i/seth-johnson-6">Venmo</a> is a free webservice which works great for transfering money. 
+<p> <a href="https://venmo.com/i/seth-johnson-6">Venmo</a> is a free web-service which works great for transferring money. 
 	It's both browser-based and available as a mobile application. 
 </p>
 <p>Either method works, but <a href="https://venmo.com/i/seth-johnson-6">Venmo</a> saves us a few dollars in the long run. 
 	You can take a look at the table below to see how much you owe, and either follow the instructions for a PayPal payment or make the appropriate <a href="https://venmo.com/i/seth-johnson-6">Venmo</a> payment to me (<a href="https://venmo.com/Seth-Johnson-6">Seth Johnson</a>)!
 </p>
-<p>Always feel free to <a href="mailto:sethalanjohnson@gmail.com?Subject=Ontario%20Payments" target="_top">Contact Me</a> with any questions or difficulties concerning these options!</p>
+<p>Always feel free to <a href="mailto:sethalanjohnson@gmail.com?Subject=Ontario%20Payments" target="_top">contact me</a> with any questions or difficulties concerning these options!</p>
 
 
 <h3>Payment Breakdown</h3>
@@ -76,6 +76,17 @@ $dudes = array(
 		  	?>
   		</tbody>
 	</table>
+</p>
+<p> If we divide this number by 9 and 12, we get $5.66 a person per month. 
+	However, since there's no telling who will be where this Summer, I've made a policy where all Summer payments are split amongst the school months.
+	This way, when May comes, I will have collected all the money for the year. 
+	If you don't plan on being here for the Summer, you can make arrangements with your sub-leaser to pay you back whatever you deem appropriate.
+</p>
+<p> Taking this policy into account, the exact cost for Internet per month for 9 months will be $7.54 a person.
+	I'm going to round this up to $10 a month, taking an approximately $2.50 contribution from each inhabitant for use towards paper towels, dish soap, and any other house-related expenses.
+	If you've spent money on something that you think your house or your floor needs, talk to me and I can potentially reimburse you accordingly. 
+</p>
+<p> So in conclusion, we're charging $10 per person per month. </p>
 	
 
 
