@@ -95,12 +95,13 @@ $dudes = array(
 <h3>Order Quantity</h3>
 <p>The Internet payments can be made monthly, or once for the entire year. 
 	If you're paying with Venmo, please indicate that you're paying for several months at once.</p>
+<p> Once I've received and verified your payment, I'll update the table below manually.</p>
 
 <?php
   echo "<h2>Payment for the month of " . $months[$month-1] . ", 2012</h2>";
 ?>
-<button type="button" onclick="location.href='https://venmo.com/i/seth-johnson-6';">Pay with Venmo!</button>
-
+<p> <button type="button" onclick="location.href='https://venmo.com/i/seth-johnson-6';">Pay with Venmo!</button></p>
+<p>Or, pay with PayPal (But really, you should use Venmo):</p>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="P94FMRYEL7MWJ">
@@ -130,7 +131,8 @@ $dudes = array(
 
 
 
-
+<h2> Payment Status </h2>
+<p> Note that this Table will be updated manually by Seth as soon as he sees the dough.</p>
 <table border="1">
 <tr>
   <th style='width:350px'/>
