@@ -1,0 +1,87 @@
+body {
+	font-size: 1em;
+	font-family: sans-serif; 
+		text-align: center;
+background-attachment: fixed;
+background-image: radial-gradient(ellipse at center center , rgb(71, 71, 71) 0%, rgb(35, 35, 35) 100%);
+}
+
+h1 {
+	text-align: center;
+	margin-top: 0em; /*To keep consistent spacing around the inside of the boxes*/
+}
+.content:before,
+.content:after {
+    content:"";
+    display:table;
+}
+.content:after {
+    clear:both;
+}
+
+/* Formatting for content bubbles */
+.content, .footer {
+	margin: 0 auto;
+	margin-top: 2em;
+	width: 75%;
+	border-radius: 1em;
+	background: white;
+	padding: 2em;
+}
+
+.footer {
+	text-align: center;
+	margin-top: 2em;
+	padding: 1em;
+	margin-bottom: 2em;
+}
+
+
+.control_button, .slide_button,.slide_button_selected {
+	width:50px;
+	height:50px;
+	border-radius: 0.5em;
+    border-color: white;
+    box-shadow: 0 0 10px white;
+    cursor:pointer;
+}
+.control_button {
+    cursor:pointer;
+    width:100px;
+    height:75px;
+    background-size: 100% 100%;
+    color: white;
+    vertical-align: bottom;
+    overflow: hidden;
+}
+
+.button_text, .button_info {
+	font-size:150%;
+	background:rgba(0,0,0,0.6);
+
+	border-radius: 0.5em;
+
+	color:white;
+}
+.button_info {
+	font-size:80%;
+}
+
+
+.slide_button_selected {
+    box-shadow: 0 0 10px red;
+
+
+} 
+#image-display {
+
+	background: white;
+	 height:300px;
+	  width:500px;
+	  background-size: 100% 100%;
+	border-style:solid;
+	border-width:5px;
+	margin: 0 auto;
+}
+#info-display {
+}

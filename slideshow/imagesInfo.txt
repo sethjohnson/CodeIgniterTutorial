@@ -1,0 +1,39 @@
+
+IMAGE-1: 
+===========================================
+Facilities: University Aquatic Center
+Sport: Swimming
+Address: 1910 University Ave SE,  Minneapolis, MN 55455
+
+IMAGE-2: 
+===========================================
+Facilities: Mariucci Arena
+Sport: Hockey
+Address: 1901 4th St SE, Minneapolis, MN 55455
+
+
+IMAGE-3: 
+===========================================
+Facilities: Siebert Stadium
+Sport: Baseball
+Address: 516 15th Av. SE., Minneapolis, MN
+
+
+IMAGE-4: 
+===========================================
+Facilities: TCF Stadium
+Sport: Football
+Address: 1602 New Brighton Blvd, Minneapolis, MN 55413
+
+
+IMAGE-5: 
+===========================================
+Facilities: Williams Arena
+Sport: Basketball
+Address: 1925 SE 17th Ave, Minneapolis, MN 55455
+
+IMAGE-6: 
+===========================================
+Facilities:  Nike Tennis Camp
+Sport: Tennis
+Address: 1815 4th Street SE, Minneapolis, MN, 55455

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>HW3</title>
+	<link rel ="stylesheet" type= "text/css" href = "mycsstyle.css">
+	<script src="SlideShow.js"></script>
+</head>
+<body>
+	<div class="content">
+		<h1>Slideshow</h1>
+
+		<div>
+			<button class="control_button" type="button" id="control_start" onclick = "showSlide()"> 
+				<span class = "button_text">Start</span> <br/> 
+				<span class = "button_info">Info</span>  
+			</button>
+			<button class="control_button" type="button" id="control_previous" onclick = "previousSlide()"> 
+				<span class = "button_text">Previous</span><br/>
+				<span class = "button_info"></span>  
+	  
+			</button>
+			<button class="control_button" type="button" id="control_next" onclick = "nextSlide()">
+				<span class = "button_text">Next</span>  <br/>
+				<span class = "button_info"></span>  
+
+	 		</button>
+		</div>
+		<div>
+			<label for="info_type">Select Information Type: </label>
+			<select id="info_type" >
+				<option value="none">None</option>
+				<option value="facilities">Facilities</option>
+				<option value="sport">Sport</option>
+				<option value="address">Address</option>
+			</select>
+		</div>
+		<div>
+			<audio controls>
+		  		<source src="Minnesota_Rouser.ogg" type="audio/ogg">
+		 		<source src="Minnesota_Rouser.mp3" type="audio/mpeg">
+		  		Your browser does not support the audio tag.
+			</audio>
+		</div>
+		<div id = "jump_slide_buttons">     <!-- ThumbNail Image Buttons -->
+				<img class="slide_button" id="image_0" height="50" width="50" src="stadiums/d3swimvenue.jpg" alt="University Aquatic Center" />
+			
+				<img class="slide_button" id="image_1" height="50" width="50" src="stadiums/Panorama-008.jpg" alt="Mariucci Arena"/>
+			
+				<img class="slide_button" id="image_2" height="50" width="50" src="stadiums/siebert_Field.jpg" alt="Siebert Stadium"/>
+			
+				<img class="slide_button" id="image_3" height="50" width="50" src="stadiums/tcf_stadium.jpg" alt="TCF Stadium"/>
+				<img class="slide_button" id="image_4" height="50" width="50" src="stadiums/tennis-courts-aerial.jpg" alt="Williams Arena"/>
+				<img class="slide_button" id="image_5" height="50" width="50" src="stadiums/williams_Arena.jpg" alt="Nike Tennis Camp"/>
+		</div>
+		<div class = "slidesButton">
+			<hr/>
+			<button type="button"  onclick="startSlideShow()"  id="StartShow">Start Slideshow</button>
+			<button type="button" onclick= "stopSlideShow()" id="StopShow">Stop Slideshow</button>
+		</div>
+		<div id="image-display"> 
+		</div>
+		<div id="info-display">
+		<span id="info-content"></span>
+		</div>
+
+
+	</div>
+	<div class = "footer">
+		<span class="copyright">&copy; 2013, Seth Johnson</span> 
+	</div>
+</body>
+</html>
