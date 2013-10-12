@@ -15,11 +15,11 @@ $months = array(
   );
 $dudes = array(
   "Isaac Chan" => 0,
-  "Conrad Etzel" => 0,
+  "Conrad Etzel" => 9,
   "David Fauth" => 0,
   "Zach Fuenning" => 0,
-  "John Hougard" => 0,
-  "Chris Lovdal" => 0,
+  "John Hougard" => 9,
+  "Chris Lovdal" => 9,
   "Nirmal Mekala" => 0,
   "Daniel Schmitter" => 0
   
@@ -168,7 +168,7 @@ $dudes = array(
 
 	 
 
-      } else if($i > $last_compound_month+1 && $i - ($last_compound_month+1) <= ($payments-$last_single_month)/2 ){
+      } else if($i > $last_compound_month+1 && $i - ($last_compound_month+1) <= ($payments-$last_single_month)/3 ){
       	 echo "<td align='center' style='background:-moz-linear-gradient(left center, GreenYellow 50%, LightGrey 50%);
     background:-o-linear-gradient(left center, GreenYellow 50%, LightGrey 50%);
     background:-webkit-gradient(linear, left top, right top, color-stop(50%,GreenYellow), color-stop(50%,LightGrey));
