@@ -1,0 +1,18 @@
+.picture {
+	position: absolute;
+			 
+			
+}
+
+#flowers {
+
+	height: 116px;/* height and width of the div */
+	width: 82px;  /* a tad bigger than the image */
+	background-image: url("pictures/flowers.jpg") 
+}
+
+#colors {
+
+
+	background-image: url("pictures/colors.jpg") 
+}
