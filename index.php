@@ -14,7 +14,7 @@ $months = array(
   "August"
   );
 $dudes = array(
-  "Isaac Chan" => 0,
+  "Isaac Chan" => 9,
   "Conrad Etzel" => 9,
   "David Fauth" => 0,
   "Zach Fuenning" => 0,
