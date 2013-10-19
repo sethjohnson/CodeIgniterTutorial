@@ -1,18 +1,27 @@
 .picture {
-	position: absolute;
-			 
-			
+	position: absolute;		
+		width:100px; /* The javascript will update these image sizes*/
+		height:100px;
+}
+
+#cat {
+	background-image: url("pictures/cat.jpg");
 }
 
 #flowers {
-
-	height: 116px;/* height and width of the div */
-	width: 82px;  /* a tad bigger than the image */
-	background-image: url("pictures/flowers.jpg") 
+	background-image: url("pictures/flowers.jpg");
 }
 
 #colors {
-
-
-	background-image: url("pictures/colors.jpg") 
+	background-image: url("pictures/colors.jpg");
 }
+
+#hedgehog {
+	background-image: url("pictures/hedgehog.jpg");
+}
+
+#cheeseburger {
+	background-image: url("pictures/cheeseburger.jpg");
+}
+
+
